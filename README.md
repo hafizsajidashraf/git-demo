@@ -1,2 +1,2 @@
 # git-demo
- This a git demo reepositry
+ This a git demo reepositry.
